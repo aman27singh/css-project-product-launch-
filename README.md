@@ -1,7 +1,6 @@
-========================================================================================================================
-PHONE 1 PRODUCT LAUNCH PAGE
-========================================================================================================================
 
+PHONE 1 PRODUCT LAUNCH PAGE
+---
 Project Overview:
 This is a one-page promotional website for the fictional smartphone "Phone 1".  
 It showcases product features, testimonials, pricing, and a strong call-to-action for purchase.
@@ -64,6 +63,6 @@ Credits:
 - All other images and assets are placeholders for demonstration purposes.
 - Created as part of a web design project following L&T Construction Internal Use guidelines.
 
-========================================================================================================================
+
 End of File
-========================================================================================================================
+
